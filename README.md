@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/osama-abdellateif-809286192/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Osama%20Abdellateef%20Mahmoud-blue?style=flat-square&logo=linkedin"></a>
-<a href=""><img alt="Email" src="https://img.shields.io/badge/Email-osama98543@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href=""><img alt="Email" src="https://img.shields.io/badge/Email-osama.abdellatif.mahmoud@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
